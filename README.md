@@ -54,7 +54,7 @@ O principal objetivo deste projeto é responder às seguintes questões:
 1. **Clone o repositório:**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Raphael-UFRJ/analise_algodao
    cd algodao-analise
    ```
 
