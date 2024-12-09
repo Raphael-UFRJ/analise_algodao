@@ -46,6 +46,9 @@ O principal objetivo deste projeto é responder às seguintes questões:
 
 ## **Instruções para Uso**
 
+- Acesse: https://drive.google.com/drive/folders/15INB0C3GHfH7zBaZHpwy9C73NJF2LhxC?usp=drive_link
+  - Para pegar o dataset weather_sum_all.csv (O mesmo é muito grande para o github)
+
 ### **Executando Localmente**
 
 1. **Clone o repositório:**
