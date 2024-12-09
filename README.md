@@ -55,7 +55,7 @@ O principal objetivo deste projeto é responder às seguintes questões:
 
    ```bash
    git clone https://github.com/Raphael-UFRJ/analise_algodao
-   cd algodao-analise
+   cd analise_algodao
    ```
 
 2. **Crie um ambiente virtual e instale as dependências:**
