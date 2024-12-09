@@ -2,7 +2,7 @@
 
 Este projeto analisa dados históricos de plantio de algodão e variáveis climáticas no Brasil, utilizando ferramentas modernas de ciência de dados para gerar insights sobre tendências, regiões promissoras e correlações entre fatores climáticos e área plantada.
 
-![PPGI logo](/assets/img/ppgi.png "PPGI logo")
+![PPGI logo](assets/img/PPGI.png "PPGI logo")
 
 Professores: Sérgio Serra e Jorge Zavatela
 
