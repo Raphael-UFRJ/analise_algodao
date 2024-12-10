@@ -6,8 +6,6 @@ Este projeto analisa dados históricos de plantio de algodão e variáveis clim�
 
 Professores: Sérgio Serra e Jorge Zavatela
 
-(https://github.com/Raphael-UFRJ/analise_algodao/blob/main/An%C3%A1lise_de_Dados_Clim%C3%A1ticos_e_Hist%C3%B3ricos_da_Produ%C3%A7%C3%A3o_de_Algod%C3%A3o_no_Brasil.pdf)
-
 ## **Objetivo**
 
 O principal objetivo deste projeto é responder às seguintes questões:
